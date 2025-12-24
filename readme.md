@@ -1,0 +1,1 @@
+Questo progetto non è open source. Il codice non può essere utilizzato senza autorizzazione.
