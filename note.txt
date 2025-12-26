@@ -1,0 +1,2 @@
+Comandi utilizzati:
+composer create-project laravel/laravel .
