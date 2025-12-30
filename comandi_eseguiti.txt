@@ -1,0 +1,21 @@
+composer create-project laravel/laravel .
+php artisan cache:table
+php artisan migrate
+composer require inertiajs/inertia-laravel
+npm install @inertiajs/vue3
+php artisan inertia:middleware
+
+
+modificato il file welcome.blade.php in:
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="utf-8">
+    <title>Test Inertia</title>
+    @vite('resources/js/app.js')
+    @inertiaHead
+</head>
+<body>
+    @inertia
+</body>
+</html>

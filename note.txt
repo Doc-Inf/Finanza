@@ -1,2 +1,57 @@
 Comandi utilizzati:
 composer create-project laravel/laravel .
+
+SQLite → comodo per test, non obbligatorio
+
+Utilizzo di MySQL impostato, nel file .env già presente inserite le righe:
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=finanza
+DB_USERNAME=Docente
+DB_PASSWORD=vallauri
+
+Prima di avviare l'applicazione creato il database finance.
+Abilitati in php.ini tutti i driver:
+extension=curl
+extension=fileinfo
+extension=mbstring
+extension=mysqli
+extension=openssl
+extension=pdo_mysql
+extension=pdo_pgsql
+extension=pdo_sqlite
+extension=pgsql
+extension=sqlite3
+
+Per forzarela creazione di una serie di strutture dalla lista di script preimpostati eseguire i seguenti comandi:
+php artisan cache:table
+php artisan migrate
+
+Create così una serie di atvbelle nel database scelto che servono per Login o altro.
+
+Ora installiamo inertia, il colante tra backend di Laravel e frontend con Vue:
+composer require inertiajs/inertia-laravel
+
+Installiamo ora vue:
+npm install @inertiajs/vue3
+
+Ora impostiamo inertia come middleware:
+php artisan inertia:middleware
+
+Ora cerco di avere una pagina di esempio base:
+modificato il file welcome.blade.php in:
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="utf-8">
+    <title>Test Inertia</title>
+    @vite('resources/js/app.js')
+    @inertiaHead
+</head>
+<body>
+    @inertia
+</body>
+</html>
+
+Per avviare il Web Server: php artisan serve

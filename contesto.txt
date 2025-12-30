@@ -1,0 +1,9 @@
+Devo creare un'applicazione con Laravel come Backend e Vue o React come front end, utilizzando Inertia come collante.
+Il progetto deve permettere in una pagina la registrazione dell'utente, in un'altra registrazione di un azioni da seguire, nella home:
+se siamo loggati ci deve far vedere i dati correnti delle azioni seguite, altrimenti redirigere nel login.
+Ho creato l'applicazione con Composer: composer create-project laravel/laravel . Ho un repository su GitHub.
+Ho modificato il file .env e bilitato lelibrerie necessarie sul file php.ini. Poi ho eseguito i seguenti comandi:
+php artisan cache:table
+php artisan migrate
+
+Era davvero necessario la migrazione?
