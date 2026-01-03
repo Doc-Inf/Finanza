@@ -33,7 +33,8 @@ class StockController extends Controller
     public function store(Request $request)
     {
         $request->validate([
-            'symbol' => 'required|string|max:10'
+            'symbol' => 'required|string|max:10',
+            'purchase_price' => 'nullable|numeric|min:0'
         ]);
 
         $symbol = strtoupper($request->symbol);
@@ -44,8 +45,18 @@ class StockController extends Controller
             ['name' => $symbol]
         );
 
-        // Aggiungi alla watchlist dell'utente
-        auth()->user()->stocks()->syncWithoutDetaching($stock->id);
+        // Aggiungi alla watchlist dell'utente con prezzo di acquisto
+        $pivotData = [];
+        if ($request->filled('purchase_price')) {
+            $pivotData['purchase_price'] = $request->purchase_price;
+        }
+
+        // Se lo stock esiste già, aggiorna il pivot, altrimenti lo crea
+        if (auth()->user()->stocks()->where('stock_id', $stock->id)->exists()) {
+            auth()->user()->stocks()->updateExistingPivot($stock->id, $pivotData);
+        } else {
+            auth()->user()->stocks()->attach($stock->id, $pivotData);
+        }
 
         // Aggiorna i dati
         $this->updateStockData($stock);
@@ -69,17 +80,48 @@ class StockController extends Controller
         return back()->with('success', 'Dati aggiornati');
     }
 
+    public function updatePurchasePrice(Request $request, Stock $stock)
+    {
+        $request->validate([
+            'purchase_price' => 'nullable|numeric|min:0'
+        ]);
+
+        $pivotData = [];
+        if ($request->filled('purchase_price')) {
+            $pivotData['purchase_price'] = $request->purchase_price;
+        } else {
+            $pivotData['purchase_price'] = null;
+        }
+
+        auth()->user()->stocks()->updateExistingPivot($stock->id, $pivotData);
+
+        return back()->with('success', 'Prezzo di acquisto aggiornato');
+    }
+
     private function updateStockData(Stock $stock): void
     {
         $data = $this->yahooFinance->fetchStockData($stock->symbol);
 
         if ($data) {
+            // Assicurati di usare i dati di chiusura (regularMarket), non after hours
+            $price = $data['current_price'] ?? null;
+            $change = $data['change'] ?? null;
+            $changePercent = $data['change_percent'] ?? null;
+            
+            // Se abbiamo dati after hours, salvali nel campo data JSON
+            $jsonData = [
+                'raw_data' => $data['raw_data'] ?? [],
+                'market_close_time' => $data['market_close_time'] ?? null,
+                'after_hours' => $data['after_hours'] ?? null,
+                'fetched_at' => $data['fetched_at'] ?? now()->toIso8601String(),
+            ];
+            
             $stock->update([
                 'name' => $data['name'] ?? $stock->name,
-                'current_price' => $data['current_price'],
-                'change' => $data['change'],
-                'change_percent' => $data['change_percent'],
-                'data' => $data['raw_data'],
+                'current_price' => $price,
+                'change' => $change,
+                'change_percent' => $changePercent,
+                'data' => $jsonData,
                 'last_updated' => now()
             ]);
         }

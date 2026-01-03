@@ -21,6 +21,26 @@
           </p>
         </div>
 
+        <div class="mb-4">
+          <label class="block text-sm font-medium text-gray-700 mb-2">
+            Prezzo di Acquisto (opzionale)
+          </label>
+          <input
+            v-model="form.purchase_price"
+            type="number"
+            step="0.01"
+            min="0"
+            class="w-full border border-gray-300 rounded-lg px-4 py-2"
+            placeholder="0.00"
+          />
+          <p class="text-xs text-gray-500 mt-1">
+            Inserisci il prezzo a cui hai acquistato questa azione per calcolare il guadagno/perdita
+          </p>
+          <p v-if="form.errors.purchase_price" class="text-red-600 text-sm mt-1">
+            {{ form.errors.purchase_price }}
+          </p>
+        </div>
+
         <div class="flex gap-4">
           <button type="submit" class="btn-primary flex-1">
             Aggiungi
@@ -38,7 +58,8 @@
 import { useForm, Link } from '@inertiajs/vue3';
 
 const form = useForm({
-  symbol: ''
+  symbol: '',
+  purchase_price: null
 });
 
 const submit = () => {

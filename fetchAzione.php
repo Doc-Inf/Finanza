@@ -114,3 +114,5 @@
     echo "<pre>";
     echo htmlspecialchars(json_encode($results, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     echo "</pre>";
+
+    file_put_contents("risultatiJson.txt", htmlspecialchars(json_encode($results, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)));

@@ -57,8 +57,52 @@
               {{ stock.change >= 0 ? '+' : '' }}{{ formatPrice(stock.change) }}
               ({{ stock.change_percent?.toFixed(2) }}%)
             </div>
-            <div class="text-xs text-gray-500">
-              Aggiornato: {{ formatDate(stock.last_updated) }}
+            
+            <div class="pt-2 border-t border-gray-200">
+              <div v-if="stock.pivot?.purchase_price" class="mb-2">
+                <div class="text-xs text-gray-600 mb-1">
+                  Prezzo di acquisto: <span class="font-semibold">${{ parseFloat(stock.pivot.purchase_price).toFixed(2) }}</span>
+                </div>
+                <div 
+                  :class="[
+                    'text-sm font-bold',
+                    calculateGainLoss(stock) >= 0 ? 'text-green-600' : 'text-red-600'
+                  ]"
+                >
+                  {{ calculateGainLoss(stock) >= 0 ? '+' : '' }}{{ formatPrice(calculateGainLoss(stock)) }}
+                  ({{ calculateGainLossPercent(stock) >= 0 ? '+' : '' }}{{ calculateGainLossPercent(stock).toFixed(2) }}%)
+                </div>
+              </div>
+              <div v-else class="text-xs text-gray-500 italic">
+                Nessun prezzo di acquisto impostato
+              </div>
+            </div>
+            
+            <div class="text-xs text-gray-500 space-y-1">
+              <div v-if="stock.data?.market_close_time">
+                Chiusura: {{ stock.data.market_close_time }}
+              </div>
+              <div v-if="stock.data?.after_hours">
+                <div class="text-xs font-semibold text-blue-600 mt-1">After Hours:</div>
+                <div class="text-xs">
+                  Prezzo: ${{ stock.data.after_hours.price?.toFixed(2) || 'N/A' }}
+                </div>
+                <div 
+                  :class="[
+                    'text-xs',
+                    (stock.data.after_hours.change || 0) >= 0 ? 'text-green-600' : 'text-red-600'
+                  ]"
+                >
+                  {{ (stock.data.after_hours.change || 0) >= 0 ? '+' : '' }}${{ stock.data.after_hours.change?.toFixed(2) || '0.00' }}
+                  ({{ (stock.data.after_hours.change_percent || 0) >= 0 ? '+' : '' }}{{ stock.data.after_hours.change_percent?.toFixed(2) || '0.00' }}%)
+                </div>
+                <div v-if="stock.data.after_hours.time" class="text-xs text-gray-400 mt-1">
+                  {{ stock.data.after_hours.time }}
+                </div>
+              </div>
+              <div class="mt-1">
+                Aggiornato: {{ formatDate(stock.last_updated) }}
+              </div>
             </div>
           </div>
 
@@ -101,6 +145,21 @@ const formatPrice = (price) => {
 
 const formatDate = (date) => {
   return date ? new Date(date).toLocaleString('it-IT') : 'Mai';
+};
+
+const calculateGainLoss = (stock) => {
+  if (!stock.pivot?.purchase_price || !stock.current_price) {
+    return null;
+  }
+  return stock.current_price - parseFloat(stock.pivot.purchase_price);
+};
+
+const calculateGainLossPercent = (stock) => {
+  if (!stock.pivot?.purchase_price || !stock.current_price) {
+    return null;
+  }
+  const purchasePrice = parseFloat(stock.pivot.purchase_price);
+  return ((stock.current_price - purchasePrice) / purchasePrice) * 100;
 };
 </script>
 

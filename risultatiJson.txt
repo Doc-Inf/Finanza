@@ -1,0 +1,3433 @@
+[
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;displayNone yf-1pzxulg&quot;,
+            &quot;data-symbol&quot;: &quot;GOOG&quot;,
+            &quot;changeev&quot;: &quot;marketStateChange&quot;,
+            &quot;data-field&quot;: &quot;marketState&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-value&quot;: &quot;&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;displayNone yf-1pzxulg&quot;,
+            &quot;data-symbol&quot;: &quot;GOOG&quot;,
+            &quot;changeev&quot;: &quot;timeChange&quot;,
+            &quot;data-field&quot;: &quot;postMarketTime&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-value&quot;: &quot;&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;313.80&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-value&quot;: &quot;313.80&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;active&quot;: &quot;&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPreviousClose&quot;,
+            &quot;class&quot;: &quot;yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;317.79&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-value&quot;: &quot;317.79&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;active&quot;: &quot;&quot;,
+            &quot;data-field&quot;: &quot;regularMarketOpen&quot;,
+            &quot;class&quot;: &quot;yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;310.65 - 322.91&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-value&quot;: &quot;310.65 - 322.91&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;active&quot;: &quot;&quot;,
+            &quot;data-field&quot;: &quot;regularMarketDayRange&quot;,
+            &quot;class&quot;: &quot;yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;142.66 - 328.67&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-value&quot;: &quot;142.66 - 328.67&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;active&quot;: &quot;&quot;,
+            &quot;data-field&quot;: &quot;fiftyTwoWeekRange&quot;,
+            &quot;class&quot;: &quot;yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;21,973,974&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-value&quot;: &quot;21,973,974&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;active&quot;: &quot;&quot;,
+            &quot;data-dfield&quot;: &quot;longFmt&quot;,
+            &quot;data-field&quot;: &quot;regularMarketVolume&quot;,
+            &quot;class&quot;: &quot;yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;22,704,040&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-value&quot;: &quot;22,704,040&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;active&quot;: &quot;&quot;,
+            &quot;data-field&quot;: &quot;averageVolume&quot;,
+            &quot;class&quot;: &quot;yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;3.806T&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-value&quot;: &quot;3.806T&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;active&quot;: &quot;&quot;,
+            &quot;data-field&quot;: &quot;marketCap&quot;,
+            &quot;class&quot;: &quot;yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;31.16&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-value&quot;: &quot;31.16&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;active&quot;: &quot;&quot;,
+            &quot;data-field&quot;: &quot;trailingPE&quot;,
+            &quot;class&quot;: &quot;yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;10.12&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-value&quot;: &quot;10.12&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;active&quot;: &quot;&quot;,
+            &quot;data-field&quot;: &quot;trailingPE&quot;,
+            &quot;class&quot;: &quot;yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;328.21&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-value&quot;: &quot;328.21&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;active&quot;: &quot;&quot;,
+            &quot;data-field&quot;: &quot;targetMeanPrice&quot;,
+            &quot;class&quot;: &quot;yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+0.19%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-1pdfbgz&quot;,
+            &quot;data-symbol&quot;: &quot;^GSPC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+1.26%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-1pdfbgz&quot;,
+            &quot;data-symbol&quot;: &quot;NVDA&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;6,858.47&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^GSPC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;6858.47&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+12.97&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^GSPC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;12.970215&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+0.19%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^GSPC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;0.18947068&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;48,382.39&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^DJI&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;48382.39&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+319.10&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^DJI&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;319.10156&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+0.66%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^DJI&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;0.6639195&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;23,235.63&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^IXIC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;23235.629&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;-6.36&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^IXIC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;-6.361328&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(-0.03%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^IXIC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;-0.02736998&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;2,508.22&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^RUT&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;2508.2234&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+26.32&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^RUT&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;26.31665&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+1.06%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^RUT&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;1.06034&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;14.51&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^VIX&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;14.51&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;-0.44&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^VIX&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;-0.43999958&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(-2.94%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;^VIX&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;-2.943141&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;4,329.60&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;GC=F&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;4329.6&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;-11.50&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;GC=F&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;-11.5&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(-0.26%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;GC=F&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;-0.2649098&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;89,737.31&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;BTC-USD&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;89737.31&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+206.71&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;BTC-USD&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;206.71094&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+0.23%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;BTC-USD&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;0.23088947&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;3,096.85&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;ETH-USD&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;3096.8508&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+45.45&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;ETH-USD&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;45.45288&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+1.49%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;ETH-USD&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;1.4895779&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;2.01&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;XRP-USD&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;2.0052338&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+0.11&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;XRP-USD&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;0.109751105&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+5.79%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;XRP-USD&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;5.790134&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;167.86&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PLTR&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;167.86&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;-9.89&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PLTR&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;-9.89&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(-5.56%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PLTR&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;-5.56399&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;275.24&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;SNDK&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;275.24&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+37.86&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;SNDK&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;37.86&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+15.95%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;SNDK&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;15.9491&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;23.01&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;FLNC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;23.01&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+3.23&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;FLNC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;3.23&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+16.33%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;FLNC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;16.3296&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;275.24&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;SNDK&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;275.24&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+37.86&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;SNDK&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;37.86&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+15.95%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;SNDK&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;15.9491&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;16.31&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;SMR&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;16.31&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+2.14&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;SMR&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;2.14&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+15.10%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;SMR&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;15.1023&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;150.30&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;BIDU&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;150.3&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+19.64&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;BIDU&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;19.64&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+15.03%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;BIDU&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;15.0314&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;83.47&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;ASTS&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;83.47&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+10.84&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;ASTS&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;10.84&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+14.93%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;ASTS&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;14.925&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;28.47&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PAY&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;28.47&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;-3.12&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PAY&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;-3.12&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(-9.88%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PAY&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;-9.87655&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;29.32&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;KVYO&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;29.32&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;-3.15&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;KVYO&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;-3.15&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(-9.70%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;KVYO&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;-9.70127&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;31.40&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;LQDA&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;31.4&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;-3.09&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;LQDA&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;-3.09&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(-8.96%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;LQDA&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;-8.95912&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;618.32&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;APP&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;618.32&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;-55.50&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;APP&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;-55.5&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(-8.24%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;APP&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;-8.23662&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;19.81&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PSNY&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;19.81&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;-1.56&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PSNY&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;-1.56&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(-7.30%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PSNY&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;-7.29996&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;11.02&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;ONDS&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;11.02&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+1.26&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;ONDS&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;1.26&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+12.91%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;ONDS&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;12.9098&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;188.85&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;NVDA&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;188.85&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+2.35&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;NVDA&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;2.35001&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+1.26%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;NVDA&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;1.26006&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;2.2300&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PLUG&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;4&quot;,
+            &quot;data-value&quot;: &quot;2.23&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+0.2600&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PLUG&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;4&quot;,
+            &quot;data-value&quot;: &quot;0.26&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+13.20%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;PLUG&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;13.198&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;39.38&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;INTC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;39.38&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;+2.48&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;INTC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;2.48&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(+6.72%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;INTC&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;6.72087&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;438.07&quot;,
+        &quot;attributes&quot;: {
+            &quot;key&quot;: &quot;price&quot;,
+            &quot;class&quot;: &quot;last-price yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;TSLA&quot;,
+            &quot;data-field&quot;: &quot;regularMarketPrice&quot;,
+            &quot;data-trend&quot;: &quot;none&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;438.07&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;-11.65&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;TSLA&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChange&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-value&quot;: &quot;-11.65&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;fin-streamer&quot;,
+        &quot;text&quot;: &quot;(-2.59%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;percentChange yf-155ko6q&quot;,
+            &quot;data-symbol&quot;: &quot;TSLA&quot;,
+            &quot;data-field&quot;: &quot;regularMarketChangePercent&quot;,
+            &quot;data-trend&quot;: &quot;txt&quot;,
+            &quot;data-pricehint&quot;: &quot;2&quot;,
+            &quot;data-template&quot;: &quot;({fmt})&quot;,
+            &quot;data-value&quot;: &quot;-2.5905&quot;,
+            &quot;data-tstyle&quot;: &quot;default&quot;,
+            &quot;active&quot;: &quot;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;52 week gainers&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;item-content yf-1bql0mv&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;...&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;container  yf-1ouvapf&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;...&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;overflow-btn hide yf-1bql0mv&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.20  -0.04%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;prices yf-17okwwh&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;315.20&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;yf-ipw1h0 base&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32  +1.52  +(0.48%)   At close: January 2 at 4:00:01 PM EST      315.20  -0.12  (-0.04%)   After hours: 7:59:59 PM EST&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;bottom yf-1x72q2h&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32  +1.52  +(0.48%)   At close: January 2 at 4:00:01 PM EST      315.20  -0.12  (-0.04%)   After hours: 7:59:59 PM EST&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1x72q2h&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32  +1.52  +(0.48%)   At close: January 2 at 4:00:01 PM EST      315.20  -0.12  (-0.04%)   After hours: 7:59:59 PM EST&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;container yf-1pzxulg&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32  +1.52  +(0.48%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;container yf-1koun92&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32&quot;,
+        &quot;attributes&quot;: {
+            &quot;style&quot;: &quot;display: contents; --_font-weight:var(--font-bold); --_font-size:var(--font-6xl);&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;315.32&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;yf-ipw1h0 base&quot;,
+            &quot;data-testid&quot;: &quot;qsp-price&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.20  -0.12  (-0.04%)   After hours: 7:59:59 PM EST&quot;,
+        &quot;attributes&quot;: {
+            &quot;style&quot;: &quot;display: contents; --_price-stats-section-gap:0.125rem;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.20  -0.12  (-0.04%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;container yf-1koun92&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.20&quot;,
+        &quot;attributes&quot;: {
+            &quot;style&quot;: &quot;display: contents; --_font-weight:var(--font-bold); --_font-size:var(--font-3xl);&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;315.20&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;yf-ipw1h0 base&quot;,
+            &quot;data-testid&quot;: &quot;qsp-post-price&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;1D     5D    -0.11%        1M    -0.22%        6M    75.41%        YTD    0.48%        1Y    65.41%        5Y    259.98%        All    12,560.08%&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-testid&quot;: &quot;tabs-container&quot;,
+            &quot;class&quot;: &quot;tabList l2  tw-justify-between sm:tw-justify-normal  yf-f7odz0&quot;,
+            &quot;role&quot;: &quot;tablist&quot;,
+            &quot;aria-labelledby&quot;: &quot;chart-range-bar&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;5D    -0.11%&quot;,
+        &quot;attributes&quot;: {
+            &quot;style&quot;: &quot;display: contents; --font-size:var(--font-xs);&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;5D    -0.11%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;container tw-px-3 yf-1ouvapf&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;1M    -0.22%&quot;,
+        &quot;attributes&quot;: {
+            &quot;style&quot;: &quot;display: contents; --font-size:var(--font-xs);&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;1M    -0.22%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;container tw-px-3 yf-1ouvapf&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;6M    75.41%&quot;,
+        &quot;attributes&quot;: {
+            &quot;style&quot;: &quot;display: contents; --font-size:var(--font-xs);&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;6M    75.41%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;container tw-px-3 yf-1ouvapf&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;75.41%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tooltip al-bottom positive tw-z-[3] plain yf-1ouvapf&quot;,
+            &quot;role&quot;: &quot;tooltip&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0.48%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tooltip al-bottom positive tw-z-[3] plain yf-1ouvapf&quot;,
+            &quot;role&quot;: &quot;tooltip&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;1Y    65.41%&quot;,
+        &quot;attributes&quot;: {
+            &quot;style&quot;: &quot;display: contents; --font-size:var(--font-xs);&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;1Y    65.41%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;container tw-px-3 yf-1ouvapf&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;65.41%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tooltip al-bottom positive tw-z-[3] plain yf-1ouvapf&quot;,
+            &quot;role&quot;: &quot;tooltip&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;5Y    259.98%&quot;,
+        &quot;attributes&quot;: {
+            &quot;style&quot;: &quot;display: contents; --font-size:var(--font-xs);&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;5Y    259.98%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;container tw-px-3 yf-1ouvapf&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;259.98%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tooltip al-bottom positive tw-z-[3] plain yf-1ouvapf&quot;,
+            &quot;role&quot;: &quot;tooltip&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;12,560.08%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tooltip al-bottom positive tw-z-[3] plain yf-1ouvapf&quot;,
+            &quot;role&quot;: &quot;tooltip&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;313.80&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;317.79&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;287.43 x 100&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;312.53 x 100&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;310.65 - 322.91&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;52 Week Range&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;label yf-6myrf1&quot;,
+            &quot;title&quot;: &quot;52 Week Range&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;142.66 - 328.67&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;21,973,974&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;22,704,040&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;3.806T&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;1.07&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;31.16&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;10.12&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;0.84 (0.27%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;1y Target Est&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;label yf-6myrf1&quot;,
+            &quot;title&quot;: &quot;1y Target Est&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;328.21&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-6myrf1&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;190,167 Full Time Employees December 31 Fiscal Year Ends Communication Services    Sector Internet Content &amp; Information    Industry&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;right yf-z5w6qk&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;190,167 Full Time Employees&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;infoSection yf-z5w6qk&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;2026 will be the year of the robotaxi       Yahoo Finance • 4m ago          CES 2026: What to expect from the tech industry’s biggest show of the year       Yahoo Finance • 20h ago          Is Reddit the new homepage for the Open Web?       Investing.com • 1h ago          The Top Stocks to Buy With $50,000 for 2026       Motley Fool • 3h ago          Dave Ramsey Says Belief That Becoming Wealthy Is &#039;Blind Luck&#039; Is &#039;Moronic&#039; And &#039;Demotivating&#039; – Thinks It &#039;Rolls Socialism In With A Red Carpet&#039;       Benzinga • 9h ago          Short interest in Trump Media climbs after recent rally, S3 Partners says       Reuters • 11h ago          Why This Analyst Prefers Microsoft Over Google In The AI Race— &#039;You Don&#039;t Have The Downside Risk Of...&#039;       Benzinga • 12h ago          Shaquille O’Neal Is Making More Money Than He Did While In The NBA Through His Fast-Casual Chicken Chain And More       AfroTech • 12h ago          4 Under-the-Radar AI Stocks to Buy for 2026       Benzinga • 13h ago          Google, IBD Stock Of The Day, Eyes Big Catalysts In 2026       Investor&#039;s Business Daily • 13h ago          Funds Plow Money Into AppLovin, Broadcom, Google — And This Top 100 Stock       Investor&#039;s Business Daily • 14h ago&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot; yf-f7odz0&quot;,
+            &quot;data-testid&quot;: &quot;tabs-panels&quot;,
+            &quot;id&quot;: &quot;tabpanel-news&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;2026 will be the year of the robotaxi       Yahoo Finance • 4m ago          CES 2026: What to expect from the tech industry’s biggest show of the year       Yahoo Finance • 20h ago          Is Reddit the new homepage for the Open Web?       Investing.com • 1h ago          The Top Stocks to Buy With $50,000 for 2026       Motley Fool • 3h ago          Dave Ramsey Says Belief That Becoming Wealthy Is &#039;Blind Luck&#039; Is &#039;Moronic&#039; And &#039;Demotivating&#039; – Thinks It &#039;Rolls Socialism In With A Red Carpet&#039;       Benzinga • 9h ago          Short interest in Trump Media climbs after recent rally, S3 Partners says       Reuters • 11h ago          Why This Analyst Prefers Microsoft Over Google In The AI Race— &#039;You Don&#039;t Have The Downside Risk Of...&#039;       Benzinga • 12h ago          Shaquille O’Neal Is Making More Money Than He Did While In The NBA Through His Fast-Casual Chicken Chain And More       AfroTech • 12h ago          4 Under-the-Radar AI Stocks to Buy for 2026       Benzinga • 13h ago          Google, IBD Stock Of The Day, Eyes Big Catalysts In 2026       Investor&#039;s Business Daily • 13h ago          Funds Plow Money Into AppLovin, Broadcom, Google — And This Top 100 Stock       Investor&#039;s Business Daily • 14h ago&quot;,
+        &quot;attributes&quot;: {
+            &quot;id&quot;: &quot;tabpanel-news&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;2026 will be the year of the robotaxi       Yahoo Finance • 4m ago          CES 2026: What to expect from the tech industry’s biggest show of the year       Yahoo Finance • 20h ago          Is Reddit the new homepage for the Open Web?       Investing.com • 1h ago          The Top Stocks to Buy With $50,000 for 2026       Motley Fool • 3h ago          Dave Ramsey Says Belief That Becoming Wealthy Is &#039;Blind Luck&#039; Is &#039;Moronic&#039; And &#039;Demotivating&#039; – Thinks It &#039;Rolls Socialism In With A Red Carpet&#039;       Benzinga • 9h ago          Short interest in Trump Media climbs after recent rally, S3 Partners says       Reuters • 11h ago          Why This Analyst Prefers Microsoft Over Google In The AI Race— &#039;You Don&#039;t Have The Downside Risk Of...&#039;       Benzinga • 12h ago          Shaquille O’Neal Is Making More Money Than He Did While In The NBA Through His Fast-Casual Chicken Chain And More       AfroTech • 12h ago          4 Under-the-Radar AI Stocks to Buy for 2026       Benzinga • 13h ago          Google, IBD Stock Of The Day, Eyes Big Catalysts In 2026       Investor&#039;s Business Daily • 13h ago          Funds Plow Money Into AppLovin, Broadcom, Google — And This Top 100 Stock       Investor&#039;s Business Daily • 14h ago&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;filtered-stories small yf-17p5yb6 rulesBetween&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;2026 will be the year of the robotaxi       Yahoo Finance • 4m ago&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;stream-item yf-17p5yb6&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;2026 will be the year of the robotaxi       Yahoo Finance • 4m ago&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;content yf-1u32w3i&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;4 Under-the-Radar AI Stocks to Buy for 2026       Benzinga • 13h ago&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;stream-item yf-17p5yb6&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;4 Under-the-Radar AI Stocks to Buy for 2026       Benzinga • 13h ago&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;content yf-1u32w3i&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;02:29    AI trade will fracture into winners &amp; losers: Top stock picks       Yahoo Finance Video • yesterday            02:11    World&#039;s richest people: How AI is shaking up the rankings       Yahoo Finance Video • yesterday            01:28    Investors should reallocate Big Tech plays &#039;now.&#039; Here&#039;s how.       Yahoo Finance Video • 2d ago&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;watch-now-stream sz-medium yf-1arlktb  pl-bottom&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;02:29&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;play-icon yf-1u32w3i&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;02:11&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;play-icon yf-1u32w3i&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;01:28&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;play-icon yf-1u32w3i&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0.48%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;perf positive yf-1sakh5l&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0.19%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;perf positive yf-1sakh5l&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;1-Year Return&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;left yf-14i28em&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;66.05%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;perf positive yf-1sakh5l&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;16.87%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;perf positive yf-1sakh5l&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;3-Year Return&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;left yf-14i28em&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;258.04%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;perf positive yf-1sakh5l&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;78.63%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;perf positive yf-1sakh5l&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;5-Year Return&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;left yf-14i28em&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;262.68%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;perf positive yf-1sakh5l&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;82.60%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;perf positive yf-1sakh5l&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;102.35B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-12ikm9e&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;34.98B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-12ikm9e&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0    20B    40B    60B    80B    100B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;axis y-axis yf-179437c&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tick tick-0 yf-179437c&quot;,
+            &quot;style&quot;: &quot;left:0%;top:100%;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;text yf-179437c&quot;,
+            &quot;style&quot;: &quot;top: 0; text-align: right; width: 29px; left: -29px; transform: translate(-3px, calc(-50% + 1px));&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;20B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tick tick-1 yf-179437c&quot;,
+            &quot;style&quot;: &quot;left:0%;top:80.4584448830438%;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;20B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;text yf-179437c&quot;,
+            &quot;style&quot;: &quot;top: 0; text-align: right; width: 29px; left: -29px; transform: translate(-3px, calc(-50% + 1px));&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;40B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tick tick-2 yf-179437c&quot;,
+            &quot;style&quot;: &quot;left:0%;top:60.91688976608758%;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;40B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;text yf-179437c&quot;,
+            &quot;style&quot;: &quot;top: 0; text-align: right; width: 29px; left: -29px; transform: translate(-3px, calc(-50% + 1px));&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;60B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tick tick-3 yf-179437c&quot;,
+            &quot;style&quot;: &quot;left:0%;top:41.37533464913138%;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;60B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;text yf-179437c&quot;,
+            &quot;style&quot;: &quot;top: 0; text-align: right; width: 29px; left: -29px; transform: translate(-3px, calc(-50% + 1px));&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;80B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tick tick-4 yf-179437c&quot;,
+            &quot;style&quot;: &quot;left:0%;top:21.833779532175168%;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;80B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;text yf-179437c&quot;,
+            &quot;style&quot;: &quot;top: 0; text-align: right; width: 29px; left: -29px; transform: translate(-3px, calc(-50% + 1px));&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;100B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tick tick-5 yf-179437c&quot;,
+            &quot;style&quot;: &quot;left:0%;top:2.2922244152189686%;&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;100B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;text yf-179437c&quot;,
+            &quot;style&quot;: &quot;top: 0; text-align: right; width: 29px; left: -29px; transform: translate(-3px, calc(-50% + 1px));&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;73\/100&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;185.00 Low 328.21 Average     315.32 Current  386.00 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;wrapper yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;185.00 Low 328.21 Average     315.32 Current  386.00 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;barContainer yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;185.00 Low&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer low yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;185.00 Low&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;lowLabel edgeLabel yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;185.00&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;328.21 Average&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer average  yf-1ixzjvx&quot;,
+            &quot;style&quot;: &quot;left: 71.24655223880599%&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;328.21 Average&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;label average yf-1ixzjvx avgNearHigh&quot;,
+            &quot;style&quot;: &quot;--avg-char-count: 7&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;328.21&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32 Current&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer current yf-1ixzjvx&quot;,
+            &quot;style&quot;: &quot;left:\n                    63.539104477611936%&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32 Current&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;label yf-1ixzjvx extend   intersecting&quot;,
+            &quot;style&quot;: &quot;--char-count: 6&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;315.32&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;386.00 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer high yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;386.00 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;edgeLabel highLabel yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;386.00&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;12\/12\/2025&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-8gyw8v&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;335 -&gt;  350&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-8gyw8v&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32 +0.48%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32 +0.48%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;315.32&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;3.806T&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;650.41 -1.47%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;650.41 -1.47%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;650.41&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;1.639T&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;89.95 +7.46%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;89.95 +7.46%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;89.95&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;22.65B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;150.30 +15.03%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;150.30 +15.03%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;150.30&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;52.395B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;241.89 +5.23%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;241.89 +5.23%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;241.89&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;45.837B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;13.77 +4.00%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;13.77 +4.00%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;13.77&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;3.856B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;575.00 -0.98%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;575.00 -0.98%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;575.00&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;118.389B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;8.13 +0.74%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;8.13 +0.74%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;8.13&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;13.978B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;26.56 +2.59%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;26.56 +2.59%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;26.56&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;18.059B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;80.55 +5.23%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;80.55 +5.23%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;80.55&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;727.908B&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;value yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0700.HK Tencent Holdings Limited            623.000 +4.01%   Mkt Cap HKD 5.627T  Industry Internet Content &amp; Information&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;main-div yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0700.HK Tencent Holdings Limited&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tickerContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0700.HK Tencent Holdings Limited&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;0700.HK&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;623.000 +4.01%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;623.000 +4.01%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceInfo yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;623.000&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1rx85ya&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32 Current&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;bar-container yf-rxlv9w&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32 Current&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;container yf-rxlv9w locked&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32 Current&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32 Current&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;valueContainer yf-vtbrbi&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32 Current&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer obfuscated yf-vtbrbi&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;315.32 Current&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceLabel yf-vtbrbi&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;315.32 Current&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;currPrice yf-vtbrbi&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low          Sector Avg.  100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;wrapper yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low          Sector Avg.  100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;barContainer yf-1ixzjvx disabled enable-bg&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer low yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;lowLabel edgeLabel yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;0&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer high yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;edgeLabel highLabel yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;100&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low          Sector Avg.  100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;wrapper yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low          Sector Avg.  100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;barContainer yf-1ixzjvx disabled enable-bg&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer low yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;lowLabel edgeLabel yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;0&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer high yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;edgeLabel highLabel yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;100&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low          Sector Avg.  100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;wrapper yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low          Sector Avg.  100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;barContainer yf-1ixzjvx disabled enable-bg&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer low yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;0 Low&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;lowLabel edgeLabel yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;0&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;priceContainer high yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;100 High&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;edgeLabel highLabel yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;100&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;price yf-1ixzjvx&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;25 days ago&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;2 months ago&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;271.01 -0.31%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;moreInfo yf-1pws7a4&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;271.01&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;226.50 -1.87%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;moreInfo yf-1pws7a4&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;226.50&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;650.41 -1.47%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;moreInfo yf-1pws7a4&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;650.41&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;438.07 -2.59%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;moreInfo yf-1pws7a4&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;438.07&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;div&quot;,
+        &quot;text&quot;: &quot;90.99 -2.95%&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;moreInfo yf-1pws7a4&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;span&quot;,
+        &quot;text&quot;: &quot;90.99&quot;,
+        &quot;attributes&quot;: []
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Summary&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;summary&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:summary;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item  selected yf-1boupp5&quot;,
+            &quot;aria-current&quot;: &quot;page&quot;,
+            &quot;title&quot;: &quot;Summary&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;News&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;news&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/news\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:news;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item   yf-1boupp5&quot;,
+            &quot;title&quot;: &quot;News&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Chart&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;chart&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/chart\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:chart;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item   yf-1boupp5&quot;,
+            &quot;title&quot;: &quot;Chart&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Community&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;community&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/community\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:community;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item   yf-1boupp5&quot;,
+            &quot;title&quot;: &quot;Community&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Statistics&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;key-statistics&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/key-statistics\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:key-statistics;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item   yf-1boupp5&quot;,
+            &quot;title&quot;: &quot;Statistics&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Historical Data&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;history&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/history\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:history;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item   yf-1boupp5&quot;,
+            &quot;title&quot;: &quot;Historical Data&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Profile&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;profile&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/profile\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:profile;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item   yf-1boupp5&quot;,
+            &quot;title&quot;: &quot;Profile&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Financials&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;financials&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/financials\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:financials;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item   yf-1boupp5&quot;,
+            &quot;title&quot;: &quot;Financials&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Analysis&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;analysis&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analysis\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:analysis;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item   yf-1boupp5&quot;,
+            &quot;title&quot;: &quot;Analysis&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Options&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;options&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/options\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:options;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item   yf-1boupp5&quot;,
+            &quot;title&quot;: &quot;Options&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Holders&quot;,
+        &quot;attributes&quot;: {
+            &quot;category&quot;: &quot;holders&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/holders\/&quot;,
+            &quot;role&quot;: &quot;menuitem&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-fin-navbar;slk:holders;milestonelink:&quot;,
+            &quot;class&quot;: &quot;item   yf-1boupp5&quot;,
+            &quot;title&quot;: &quot;Holders&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;More about Alphabet Inc.&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;tertiary-btn-link fin-size-small      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:itm;elmt:link;itc:0;sec:qsp-company-overview;subsec:profile&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/profile\/&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;View More&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-large tw-hidden md:tw-inline-flex font-normal     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:ct;elmt:link;itc:0;sec:qsp-recent-news&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/news\/&quot;,
+            &quot;aria-label&quot;: &quot;View More&quot;,
+            &quot;title&quot;: &quot;View More&quot;,
+            &quot;data-testid&quot;: &quot;v-more&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;View More&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-x-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:ct;elmt:link;itc:0;sec:qsp-recent-news&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/news\/&quot;,
+            &quot;aria-label&quot;: &quot;View More&quot;,
+            &quot;title&quot;: &quot;View More&quot;,
+            &quot;data-testid&quot;: &quot;v-more&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;^GSPC   +0.19%&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-testid&quot;: &quot;ticker-container&quot;,
+            &quot;class&quot;: &quot;ticker x-small    hover2   border  has-follow streaming   yf-1pdfbgz&quot;,
+            &quot;aria-label&quot;: &quot;^GSPC&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-video;slk:%5EGSPC;subsec:qsp-video-lead&quot;,
+            &quot;href&quot;: &quot;\/quote\/%5EGSPC\/&quot;,
+            &quot;title&quot;: &quot;^GSPC&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;NVDA   +1.26%&quot;,
+        &quot;attributes&quot;: {
+            &quot;data-testid&quot;: &quot;ticker-container&quot;,
+            &quot;class&quot;: &quot;ticker x-small    hover2   border  has-follow streaming   yf-1pdfbgz&quot;,
+            &quot;aria-label&quot;: &quot;NVDA&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-video;slk:NVDA;subsec:qsp-video-lead&quot;,
+            &quot;href&quot;: &quot;\/quote\/NVDA\/&quot;,
+            &quot;title&quot;: &quot;NVDA&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;S&amp;P 500 (^GSPC)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-medium      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:ct;elmt:link;itc:0&quot;,
+            &quot;href&quot;: &quot;\/quote\/%5EGSPC\/&quot;,
+            &quot;title&quot;: &quot;S&amp;P 500 (^GSPC)&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;View More&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-large tw-hidden md:tw-inline-flex font-normal     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-earnings-trends&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analysis\/&quot;,
+            &quot;aria-label&quot;: &quot;View More&quot;,
+            &quot;title&quot;: &quot;View More&quot;,
+            &quot;data-testid&quot;: &quot;v-more&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analysis\/&quot;,
+            &quot;title&quot;: &quot;Earnings Per Share&quot;,
+            &quot;aria-label&quot;: &quot;Earnings Per Share&quot;,
+            &quot;data-ylk&quot;: &quot;itc:0;sec:qsp-earnings;elm:navcat;elmt:link;slk:qsp-earnings-analysis&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analysis\/&quot;,
+            &quot;title&quot;: &quot;Revenue vs. Earnings&quot;,
+            &quot;aria-label&quot;: &quot;Revenue vs. Earnings&quot;,
+            &quot;data-ylk&quot;: &quot;itc:0;sec:qsp-revenue-earnings-chart;elm:navcat;elmt:link;slk:qsp-revenue-earnings-chart&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;View More&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-x-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-earnings-trends&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analysis\/&quot;,
+            &quot;aria-label&quot;: &quot;View More&quot;,
+            &quot;title&quot;: &quot;View More&quot;,
+            &quot;data-testid&quot;: &quot;v-more&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;View More&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-large tw-hidden md:tw-inline-flex font-normal     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-analyst-insights&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analyst-insights\/&quot;,
+            &quot;aria-label&quot;: &quot;View More&quot;,
+            &quot;title&quot;: &quot;View More&quot;,
+            &quot;data-testid&quot;: &quot;v-more&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analyst-insights\/?ratingsScoreType=fin_score#top-analyst&quot;,
+            &quot;title&quot;: &quot;Top Analyst&quot;,
+            &quot;aria-label&quot;: &quot;Top Analyst&quot;,
+            &quot;data-ylk&quot;: &quot;itc:0;elm:navcat;sec:qsp-top-analyst;slk:Top%20Analyst&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analyst-insights\/&quot;,
+            &quot;title&quot;: &quot;Analyst Price Targets&quot;,
+            &quot;aria-label&quot;: &quot;Analyst Price Targets&quot;,
+            &quot;data-ylk&quot;: &quot;itc:0;elm:navcat;elmt:link;sec:qsp-analyst-price-target;slk:qsp-analyst-price-target-analysis&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analyst-insights\/&quot;,
+            &quot;title&quot;: &quot;Analyst Recommendations&quot;,
+            &quot;aria-label&quot;: &quot;Analyst Recommendations&quot;,
+            &quot;data-ylk&quot;: &quot;itc:0;sec:qsp-analyst-recommendations;elm:navcat;elmt:link;slk:qsp-analyst-recommendatios-analysis&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analyst-insights\/#upgrade-downgrade-table&quot;,
+            &quot;title&quot;: &quot;Latest Rating&quot;,
+            &quot;aria-label&quot;: &quot;Latest Rating&quot;,
+            &quot;data-ylk&quot;: &quot;itc:0;elm:navcat;sec:qsp-latest-ratings;elmt:link;slk:qsp-latest-ratings-analysis&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;View More&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-x-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:link;itc:0;sec:qsp-analyst-insights&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/analyst-insights\/&quot;,
+            &quot;aria-label&quot;: &quot;View More&quot;,
+            &quot;title&quot;: &quot;View More&quot;,
+            &quot;data-testid&quot;: &quot;v-more&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;View More&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-large tw-hidden md:tw-inline-flex font-normal     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:btn;itc:0;sec:qsp-keystatistics&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/key-statistics\/&quot;,
+            &quot;aria-label&quot;: &quot;View More&quot;,
+            &quot;title&quot;: &quot;View More&quot;,
+            &quot;data-testid&quot;: &quot;v-more&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;View More&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-x-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:navcat;elmt:btn;itc:0;sec:qsp-keystatistics&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/key-statistics\/&quot;,
+            &quot;aria-label&quot;: &quot;View More&quot;,
+            &quot;title&quot;: &quot;View More&quot;,
+            &quot;data-testid&quot;: &quot;v-more&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;GOOG Alphabet Inc.&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/GOOG\/&quot;,
+            &quot;aria-label&quot;: &quot;GOOG&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;META Meta Platforms, Inc.&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/META\/&quot;,
+            &quot;aria-label&quot;: &quot;META&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;NBIS Nebius Group N.V.&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/NBIS\/&quot;,
+            &quot;aria-label&quot;: &quot;NBIS&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;BIDU Baidu, Inc.&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/BIDU\/&quot;,
+            &quot;aria-label&quot;: &quot;BIDU&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;RDDT Reddit, Inc.&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/RDDT\/&quot;,
+            &quot;aria-label&quot;: &quot;RDDT&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;DJT Trump Media &amp; Technology Group Corp.&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/DJT\/&quot;,
+            &quot;aria-label&quot;: &quot;DJT&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;SPOT Spotify Technology S.A.&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/SPOT\/&quot;,
+            &quot;aria-label&quot;: &quot;SPOT&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;SNAP Snap Inc.&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/SNAP\/&quot;,
+            &quot;aria-label&quot;: &quot;SNAP&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;PINS Pinterest, Inc.&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/PINS\/&quot;,
+            &quot;aria-label&quot;: &quot;PINS&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;TCEHY Tencent Holdings Limited&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/TCEHY\/&quot;,
+            &quot;aria-label&quot;: &quot;TCEHY&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;0700.HK Tencent Holdings Limited&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;loud-link fin-size-large      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:qsp-compare-symbols&quot;,
+            &quot;href&quot;: &quot;\/quote\/0700.HK\/&quot;,
+            &quot;aria-label&quot;: &quot;0700.HK&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/AAPL\/&quot;,
+            &quot;title&quot;: &quot;AAPL&quot;,
+            &quot;aria-label&quot;: &quot;AAPL&quot;,
+            &quot;data-ylk&quot;: &quot;itc:1;elm:qte;elmt:link;slk:AAPL;sec:qsp-similar-symbols;subsec:similar-symbols-carousel&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/AMZN\/&quot;,
+            &quot;title&quot;: &quot;AMZN&quot;,
+            &quot;aria-label&quot;: &quot;AMZN&quot;,
+            &quot;data-ylk&quot;: &quot;itc:1;elm:qte;elmt:link;slk:AMZN;sec:qsp-similar-symbols;subsec:similar-symbols-carousel&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/META\/&quot;,
+            &quot;title&quot;: &quot;META&quot;,
+            &quot;aria-label&quot;: &quot;META&quot;,
+            &quot;data-ylk&quot;: &quot;itc:1;elm:qte;elmt:link;slk:META;sec:qsp-similar-symbols;subsec:similar-symbols-carousel&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/TSLA\/&quot;,
+            &quot;title&quot;: &quot;TSLA&quot;,
+            &quot;aria-label&quot;: &quot;TSLA&quot;,
+            &quot;data-ylk&quot;: &quot;itc:1;elm:qte;elmt:link;slk:TSLA;sec:qsp-similar-symbols;subsec:similar-symbols-carousel&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot; &quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;card-link yf-14i28em&quot;,
+            &quot;href&quot;: &quot;\/quote\/NFLX\/&quot;,
+            &quot;title&quot;: &quot;NFLX&quot;,
+            &quot;aria-label&quot;: &quot;NFLX&quot;,
+            &quot;data-ylk&quot;: &quot;itc:1;elm:qte;elmt:link;slk:NFLX;sec:qsp-similar-symbols;subsec:similar-symbols-carousel&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Dow Jones&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-small      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:footer&quot;,
+            &quot;href&quot;: &quot;https:\/\/finance.yahoo.com\/quote\/%5EDJI\/&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;S&amp;P 500&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-small      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:footer&quot;,
+            &quot;href&quot;: &quot;https:\/\/finance.yahoo.com\/quote\/SPY\/&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;DAX Index&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-small      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:footer&quot;,
+            &quot;href&quot;: &quot;https:\/\/finance.yahoo.com\/quote\/%5EGDAXI\/&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Nvidia&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-small      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:footer&quot;,
+            &quot;href&quot;: &quot;https:\/\/finance.yahoo.com\/quote\/NVDA\/&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Tesla&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-small      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:footer&quot;,
+            &quot;href&quot;: &quot;https:\/\/finance.yahoo.com\/quote\/TSLA\/&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;DJT&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;subtle-link fin-size-small      yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:footer&quot;,
+            &quot;href&quot;: &quot;https:\/\/finance.yahoo.com\/quote\/DJT\/&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;S&amp;P 500   6,858.47 +12.97 (+0.19%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:%5EGSPC;subsec:markets&quot;,
+            &quot;href&quot;: &quot;\/quote\/%5EGSPC\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Dow 30   48,382.39 +319.10 (+0.66%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:%5EDJI;subsec:markets&quot;,
+            &quot;href&quot;: &quot;\/quote\/%5EDJI\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Nasdaq   23,235.63 -6.36 (-0.03%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:%5EIXIC;subsec:markets&quot;,
+            &quot;href&quot;: &quot;\/quote\/%5EIXIC\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Russell 2000   2,508.22 +26.32 (+1.06%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:%5ERUT;subsec:markets&quot;,
+            &quot;href&quot;: &quot;\/quote\/%5ERUT\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;VIX   14.51 -0.44 (-2.94%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:%5EVIX;subsec:markets&quot;,
+            &quot;href&quot;: &quot;\/quote\/%5EVIX\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;Gold   4,329.60 -11.50 (-0.26%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:GC%3DF;subsec:markets&quot;,
+            &quot;href&quot;: &quot;\/quote\/GC%3DF\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;BTC-USD Bitcoin USD  89,737.31 +206.71 (+0.23%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:BTC-USD;subsec:trending_tickers&quot;,
+            &quot;href&quot;: &quot;\/quote\/BTC-USD\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;ETH-USD Ethereum USD  3,096.85 +45.45 (+1.49%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:ETH-USD;subsec:trending_tickers&quot;,
+            &quot;href&quot;: &quot;\/quote\/ETH-USD\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;XRP-USD XRP USD  2.01 +0.11 (+5.79%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:XRP-USD;subsec:trending_tickers&quot;,
+            &quot;href&quot;: &quot;\/quote\/XRP-USD\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;PLTR Palantir Technologies Inc.  167.86 -9.89 (-5.56%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:PLTR;subsec:trending_tickers&quot;,
+            &quot;href&quot;: &quot;\/quote\/PLTR\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;SNDK Sandisk Corporation  275.24 +37.86 (+15.95%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:SNDK;subsec:trending_tickers&quot;,
+            &quot;href&quot;: &quot;\/quote\/SNDK\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;FLNC Fluence Energy, Inc.  23.01 +3.23 (+16.33%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:FLNC;subsec:top_gainers&quot;,
+            &quot;href&quot;: &quot;\/quote\/FLNC\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;SNDK Sandisk Corporation  275.24 +37.86 (+15.95%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:SNDK;subsec:top_gainers&quot;,
+            &quot;href&quot;: &quot;\/quote\/SNDK\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;SMR NuScale Power Corporation  16.31 +2.14 (+15.10%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:SMR;subsec:top_gainers&quot;,
+            &quot;href&quot;: &quot;\/quote\/SMR\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;BIDU Baidu, Inc.  150.30 +19.64 (+15.03%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:BIDU;subsec:top_gainers&quot;,
+            &quot;href&quot;: &quot;\/quote\/BIDU\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;ASTS AST SpaceMobile, Inc.  83.47 +10.84 (+14.93%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:ASTS;subsec:top_gainers&quot;,
+            &quot;href&quot;: &quot;\/quote\/ASTS\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;PAY Paymentus Holdings, Inc.  28.47 -3.12 (-9.88%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:PAY;subsec:top_losers&quot;,
+            &quot;href&quot;: &quot;\/quote\/PAY\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;KVYO Klaviyo, Inc.  29.32 -3.15 (-9.70%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:KVYO;subsec:top_losers&quot;,
+            &quot;href&quot;: &quot;\/quote\/KVYO\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;LQDA Liquidia Corporation  31.40 -3.09 (-8.96%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:LQDA;subsec:top_losers&quot;,
+            &quot;href&quot;: &quot;\/quote\/LQDA\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;APP AppLovin Corporation  618.32 -55.50 (-8.24%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:APP;subsec:top_losers&quot;,
+            &quot;href&quot;: &quot;\/quote\/APP\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;PSNY Polestar Automotive Holding UK PLC  19.81 -1.56 (-7.30%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:PSNY;subsec:top_losers&quot;,
+            &quot;href&quot;: &quot;\/quote\/PSNY\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;ONDS Ondas Holdings Inc.  11.02 +1.26 (+12.91%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:ONDS;subsec:most_active&quot;,
+            &quot;href&quot;: &quot;\/quote\/ONDS\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;NVDA NVIDIA Corporation  188.85 +2.35 (+1.26%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:NVDA;subsec:most_active&quot;,
+            &quot;href&quot;: &quot;\/quote\/NVDA\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;PLUG Plug Power Inc.  2.2300 +0.2600 (+13.20%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:PLUG;subsec:most_active&quot;,
+            &quot;href&quot;: &quot;\/quote\/PLUG\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;INTC Intel Corporation  39.38 +2.48 (+6.72%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:INTC;subsec:most_active&quot;,
+            &quot;href&quot;: &quot;\/quote\/INTC\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    },
+    {
+        &quot;tag&quot;: &quot;a&quot;,
+        &quot;text&quot;: &quot;TSLA Tesla, Inc.  438.07 -11.65 (-2.59%)&quot;,
+        &quot;attributes&quot;: {
+            &quot;class&quot;: &quot;none-link fin-size-small tw-block tw-w-11\/12     yf-119g04z&quot;,
+            &quot;data-ylk&quot;: &quot;elm:qte;elmt:link;itc:0;sec:dock;slk:TSLA;subsec:most_active&quot;,
+            &quot;href&quot;: &quot;\/quote\/TSLA\/&quot;,
+            &quot;data-testid&quot;: &quot;ticker-list-item&quot;
+        }
+    }
+]

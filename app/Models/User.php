@@ -50,6 +50,7 @@ class User extends Authenticatable
     public function stocks()
     {
         return $this->belongsToMany(Stock::class, 'user_stocks')
+            ->withPivot('purchase_price')
             ->withTimestamps();
     }
 }
