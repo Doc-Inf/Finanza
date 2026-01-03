@@ -2,8 +2,6 @@ Devo creare un'applicazione con Laravel come Backend e Vue o React come front en
 Il progetto deve permettere in una pagina la registrazione dell'utente, in un'altra registrazione di un azioni da seguire, nella home:
 se siamo loggati ci deve far vedere i dati correnti delle azioni seguite, altrimenti redirigere nel login.
 Ho creato l'applicazione con Composer: composer create-project laravel/laravel . Ho un repository su GitHub.
-Ho modificato il file .env e bilitato lelibrerie necessarie sul file php.ini. Poi ho eseguito i seguenti comandi:
-php artisan cache:table
-php artisan migrate
+Ho modificato il file .env e abilitato le librerie necessarie sul file php.ini. Non mi funziona neanche la pagina di test mi correggi gli errori. Il database finanza esiste, le tabelle sono create al suo interno
 
-Era davvero necessario la migrazione?
+

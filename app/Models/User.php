@@ -45,4 +45,11 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+
+    // app/Models/User.php
+    public function stocks()
+    {
+        return $this->belongsToMany(Stock::class, 'user_stocks')
+            ->withTimestamps();
+    }
 }
